@@ -1,6 +1,6 @@
 ####################
 ## Set filenames! ##
-####################
+##########
 
 location = "Location of input/output file"
 filename = "nucleotide_file.txt"
